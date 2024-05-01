@@ -1,0 +1,5 @@
+.env
+node_modules/
+
+src/tests/*.spec.ts
+!src/tests/helpers/*.spec.ts
